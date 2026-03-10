@@ -3,7 +3,7 @@
 ## Descripción
 
 En esta práctica se implementa una clase **Estudiante** utilizando **Programación Orientada a Objetos en Python**.
-La clase permite almacenar información de un estudiante y gestionar sus calificaciones.
+La clase permite guardar información de un estudiante y gestionar sus calificaciones.
 
 ## Funcionalidad
 
@@ -23,3 +23,4 @@ El programa permite:
 
 **Jesús Antonio Solís Gómez**
 Programación Orientada a Objetos – 2026
+
