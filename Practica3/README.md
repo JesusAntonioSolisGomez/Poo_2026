@@ -7,7 +7,3 @@ Proyecto simple para demostrar **herencia** y **polimorfismo** en Python.
 - `Perro.py` - Clase Perro que hereda de Animal (ladra)
 - `Gato.py` - Clase Gato que hereda de Animal (maúlla)
 - `main.py` - Script principal que crea objetos y prueba métodos
-
-## ▶️ Ejecutar
-```bash
-python main.py
